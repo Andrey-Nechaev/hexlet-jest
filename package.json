@@ -4,8 +4,7 @@
   "description": "",
   "main": "",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "myscript": "brain-even"
+    "test": "npx jest"
   },
   "author": "Andrey Nechaev",
   "license": "ISC",

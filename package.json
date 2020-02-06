@@ -4,7 +4,8 @@
   "description": "",
   "main": "",
   "scripts": {
-    "test": "npx jest"
+    "test": "npx jest",
+    "gp": "git push -u hexlet-jest master"
   },
   "author": "Andrey Nechaev",
   "license": "ISC",
